@@ -33,4 +33,5 @@ Python, Selenium, PyTest, Postman, Jenkins
 ## 6️⃣ 다른 학생들에게 한마디 💬
 “우리 같이 성장해요!”  
 
-[Google](http://www.google.com)
+- [ ] this is an incomplete item
+- [x] this is a complete item
