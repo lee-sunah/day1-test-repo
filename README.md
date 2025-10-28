@@ -35,3 +35,8 @@ Python, Selenium, PyTest, Postman, Jenkins
 
 - [ ] this is an incomplete item
 - [x] this is a complete item
+
+헤더1|헤더2|헤더3
+---|---|---
+셀1|셀2|셀3
+셀4|셀5|셀6
